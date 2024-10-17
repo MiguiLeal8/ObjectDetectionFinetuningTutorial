@@ -14,22 +14,22 @@ PennFudanPed/
 
   PedMasks/
 
-    FudanPed00001_mask.png
+  FudanPed00001_mask.png
     
-    FudanPed00002_mask.png
+  FudanPed00002_mask.png
     
-    FudanPed00003_mask.png
+  FudanPed00003_mask.png
+   
+  FudanPed00004_mask.png
     
-    FudanPed00004_mask.png
-    
-    ...
+  ...
   
   PNGImages/
   
-    FudanPed00001.png
+  FudanPed00001.png
     
-    FudanPed00002.png
+  FudanPed00002.png
     
-    FudanPed00003.png
-    
-    FudanPed00004.png
+  FudanPed00003.png
+  
+  FudanPed00004.png
